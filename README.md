@@ -30,7 +30,7 @@ Metode hitungBiayaPerjalanan() dapat diimplementasikan secara berbeda dalam Kend
 Kelas Kendaraan kemungkinan merupakan kelas abstrak yang tidak diinstansiasi secara langsung, melainkan hanya menyediakan struktur dasar untuk kelas turunannya (Bus, SepedaMotor).
 Metode seperti hitungBiayaPerjalanan mungkin dideklarasikan sebagai metode abstrak di Kendaraan, sehingga kelas turunannya wajib mengimplementasikan metode ini.
 # Demo Proyek
-Github :
+Github : https://github.com/tinton-despi-alkhifari/UTS_PBO1_TIFK23A_23552011162.git
 
 Youtube :
   
